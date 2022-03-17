@@ -15,6 +15,7 @@ FreeRouting round trip invocation:
 cd $HOME/.kicad_plugins
 git clone https://github.com/random-builder/kicad_freerouting-plugin.git
 ```
+then put jar file into jar folder
 
 ### Operation
 
